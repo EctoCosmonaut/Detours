@@ -38,4 +38,4 @@ obj.*
 *.recipe
 /bin.*
 *.vcxproj.FileListAbsolute.txt
-*.vcxprojAssemblyReference.cache
+*AssemblyReference.cache
